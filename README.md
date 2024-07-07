@@ -1,24 +1,12 @@
 # weather-app
 
-## Project setup
-```
-yarn install
-```
 
 ### Compiles and hot-reloads for development
+``
+npm run serve
 ```
-yarn serve
-```
+### after selecting city please wait 5-6 seconds for chart
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
